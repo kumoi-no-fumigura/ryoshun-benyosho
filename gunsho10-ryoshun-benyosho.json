@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ryoshun-benyosho",
  "yomi": "りょうしゅんべんようしょう",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "応永16年（1409）7月",
+  "author": "今川了俊",
+  "desc": "今川了俊が、自分が歌を習い覚えた経緯を語りつつ、稽古の心得を子のために書いた書。冷泉為尹・為相の歌風にも触れる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -134,6 +139,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
